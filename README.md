@@ -1,6 +1,8 @@
 # Econ Project
 
-This project analyzes non-perishable purchasing patterns alongside meal swipe activity to understand how food demand, item ordering, and cost behavior move over time. It combines purchasing data from `A.5_Non-Perishables.xlsx` with meal plan usage data, then produces summary tables, regression diagnostics, forecasts, and publication-ready charts.
+This project uses real dining services data from my school to analyze non-perishable purchasing patterns alongside meal swipe activity. I built this modeling work for my school's dining services team to help identify demand patterns, reduce unnecessary purchasing, and support lower operating costs.
+
+The analysis combines purchasing data from `A.5_Non-Perishables.xlsx` with meal plan usage data, then produces summary tables, regression diagnostics, forecasts, and publication-ready charts that show how food demand, item ordering, and cost behavior move over time.
 
 At a high level, the analysis asks:
 
@@ -73,5 +75,7 @@ python3 Econ_proj.py path/to/file.xlsx "Data"
 ```
 
 ## Notes
+
+This is not a synthetic example or toy dataset. The project is based on real operational dining data and was created to support practical cost-reduction work for my school's dining services.
 
 The analysis is designed as a reproducible project snapshot: source data, code, dependency versions, and generated outputs live together so the charts and tables can be regenerated from the same inputs.
