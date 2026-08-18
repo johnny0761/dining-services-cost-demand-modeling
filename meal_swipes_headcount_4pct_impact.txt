@@ -1,0 +1,19 @@
+Estimated meal swipe impact of a 4% headcount increase
+======================================================
+
+Method: OLS regression from meal_swipes_vs_headcount_regression.txt
+Regression coefficient: 148.5644 meal swipes per additional person per month
+Regression R-squared: 0.0075
+
+Baseline headcount year: 2024
+Baseline headcount: 9,445
+Headcount after 4% increase: 9,822.80
+Additional people: 377.80
+
+Predicted monthly swipes at baseline headcount: 147,063.02
+Predicted monthly swipes after 4% increase: 203,190.66
+Estimated additional meal swipes per month: 56,127.64
+Estimated additional meal swipes per year: 673,531.74
+
+Interpretation note: this uses the old headcount regression relationship only.
+The form-fitting forecast file copies the latest actual monthly pattern forward and grows each point by 4%.

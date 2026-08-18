@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:            meal_swipes   R-squared:                       0.008
+Model:                            OLS   Adj. R-squared:                 -0.040
+Method:                 Least Squares   F-statistic:                    0.1595
+Date:                Tue, 12 May 2026   Prob (F-statistic):              0.694
+Time:                        10:11:40   Log-Likelihood:                -290.00
+No. Observations:                  23   AIC:                             584.0
+Df Residuals:                      21   BIC:                             586.3
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -1.256e+06   3.39e+06     -0.371      0.714    -8.3e+06    5.79e+06
+Headcount    148.5644    371.994      0.399      0.694    -625.039     922.168
+==============================================================================
+Omnibus:                        2.884   Durbin-Watson:                   1.406
+Prob(Omnibus):                  0.236   Jarque-Bera (JB):                1.328
+Skew:                          -0.162   Prob(JB):                        0.515
+Kurtosis:                       1.868   Cond. No.                     1.95e+06
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.95e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.

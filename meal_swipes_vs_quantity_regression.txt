@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         total_quantity   R-squared:                       0.791
+Model:                            OLS   Adj. R-squared:                  0.781
+Method:                 Least Squares   F-statistic:                     75.85
+Date:                Tue, 12 May 2026   Prob (F-statistic):           3.06e-08
+Time:                        10:11:45   Log-Likelihood:                -133.32
+No. Observations:                  22   AIC:                             270.6
+Df Residuals:                      20   BIC:                             272.8
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const         168.7138     36.620      4.607      0.000      92.326     245.101
+meal_swipes     0.0024      0.000      8.709      0.000       0.002       0.003
+==============================================================================
+Omnibus:                        9.396   Durbin-Watson:                   2.485
+Prob(Omnibus):                  0.009   Jarque-Bera (JB):                7.022
+Skew:                          -1.166   Prob(JB):                       0.0299
+Kurtosis:                       4.492   Cond. No.                     2.12e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.12e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.

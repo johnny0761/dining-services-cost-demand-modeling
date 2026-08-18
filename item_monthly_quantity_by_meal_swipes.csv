@@ -1,0 +1,181 @@
+item_id,item_name,display_name,month_number,month,meal_swipes,quantity,quantity_unit,quantity_month_adjustment,spending,spending_unit,item_peak_quantity,quantity_normalized_to_item_peak
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,1,Jan,70283.0,28.0,cases,calendar-month purchase total divided by 2,1318.56,dollars,109.0,0.25688073394495414
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,2,Feb,277428.0,80.0,cases,calendar-month purchase total divided by 2,3639.44,dollars,109.0,0.7339449541284404
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,3,Mar,140430.0,74.0,cases,calendar-month purchase total divided by 2,3412.24,dollars,109.0,0.6788990825688074
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,4,Apr,258945.0,92.5,cases,calendar-month purchase total divided by 2,4120.01,dollars,109.0,0.8486238532110092
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,5,May,154523.0,43.5,cases,calendar-month purchase total divided by 2,2056.35,dollars,109.0,0.39908256880733944
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,6,Jun,0.0,29.5,cases,calendar-month purchase total divided by 2,1323.59,dollars,109.0,0.2706422018348624
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,7,Jul,0.0,23.5,cases,calendar-month purchase total divided by 2,1110.465,dollars,109.0,0.21559633027522937
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,8,Aug,51797.0,51.5,cases,calendar-month purchase total divided by 2,2331.135,dollars,109.0,0.4724770642201835
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,9,Sep,376862.0,109.0,cases,calendar-month purchase total divided by 2,5665.31,dollars,109.0,1.0
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,10,Oct,430403.0,92.5,cases,calendar-month purchase total divided by 2,4841.45,dollars,109.0,0.8486238532110092
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,11,Nov,229883.0,37.5,cases,calendar-month purchase total divided by 2,1962.75,dollars,109.0,0.3440366972477064
+2716959,Sauce Alfredo BIB FZN GF,Alfredo Sauce,12,Dec,231310.0,21.0,cases,calendar-month purchase total divided by 2,1099.14,dollars,109.0,0.1926605504587156
+9332313,Veg Bean Black Fcy CND,Black Beans,1,Jan,70283.0,8.0,cases,calendar-month purchase total divided by 2,307.515,dollars,35.916650000000004,0.2227379223841867
+9332313,Veg Bean Black Fcy CND,Black Beans,2,Feb,277428.0,30.0,cases,calendar-month purchase total divided by 2,1238.685,dollars,35.916650000000004,0.8352672089407001
+9332313,Veg Bean Black Fcy CND,Black Beans,3,Mar,140430.0,30.0,cases,calendar-month purchase total divided by 2,1157.62,dollars,35.916650000000004,0.8352672089407001
+9332313,Veg Bean Black Fcy CND,Black Beans,4,Apr,258945.0,29.5,cases,calendar-month purchase total divided by 2,1133.5149999999999,dollars,35.916650000000004,0.8213460887916885
+9332313,Veg Bean Black Fcy CND,Black Beans,5,May,154523.0,15.0,cases,calendar-month purchase total divided by 2,575.12,dollars,35.916650000000004,0.41763360447035003
+9332313,Veg Bean Black Fcy CND,Black Beans,6,Jun,0.0,6.5,cases,calendar-month purchase total divided by 2,246.26,dollars,35.916650000000004,0.1809745619371517
+9332313,Veg Bean Black Fcy CND,Black Beans,7,Jul,0.0,9.25,cases,calendar-month purchase total divided by 2,354.945,dollars,35.916650000000004,0.25754072275671586
+9332313,Veg Bean Black Fcy CND,Black Beans,8,Aug,51797.0,13.5,cases,calendar-month purchase total divided by 2,518.85,dollars,35.916650000000004,0.37587024402331504
+9332313,Veg Bean Black Fcy CND,Black Beans,9,Sep,376862.0,33.0,cases,calendar-month purchase total divided by 2,1282.49,dollars,35.916650000000004,0.9187939298347702
+9332313,Veg Bean Black Fcy CND,Black Beans,10,Oct,430403.0,35.916650000000004,cases,calendar-month purchase total divided by 2,1397.8200000000002,dollars,35.916650000000004,1.0
+9332313,Veg Bean Black Fcy CND,Black Beans,11,Nov,229883.0,16.5,cases,calendar-month purchase total divided by 2,640.11,dollars,35.916650000000004,0.4593969649173851
+9332313,Veg Bean Black Fcy CND,Black Beans,12,Dec,231310.0,8.0,cases,calendar-month purchase total divided by 2,311.685,dollars,35.916650000000004,0.2227379223841867
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,1,Jan,70283.0,3.0,cases,calendar-month purchase total divided by 2,246.04999999999998,dollars,18.0,0.16666666666666666
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,2,Feb,277428.0,12.0,cases,calendar-month purchase total divided by 2,989.52,dollars,18.0,0.6666666666666666
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,3,Mar,140430.0,10.5,cases,calendar-month purchase total divided by 2,865.4449999999999,dollars,18.0,0.5833333333333334
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,4,Apr,258945.0,10.416665,cases,calendar-month purchase total divided by 2,852.5,dollars,18.0,0.5787036111111111
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,5,May,154523.0,4.41667,cases,calendar-month purchase total divided by 2,360.14,dollars,18.0,0.24537055555555554
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,6,Jun,0.0,3.5,cases,calendar-month purchase total divided by 2,287.25,dollars,18.0,0.19444444444444445
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,7,Jul,0.0,3.0,cases,calendar-month purchase total divided by 2,246.85500000000002,dollars,18.0,0.16666666666666666
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,8,Aug,51797.0,6.0,cases,calendar-month purchase total divided by 2,561.74,dollars,18.0,0.3333333333333333
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,9,Sep,376862.0,18.0,cases,calendar-month purchase total divided by 2,1481.26,dollars,18.0,1.0
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,10,Oct,430403.0,14.5,cases,calendar-month purchase total divided by 2,1196.86,dollars,18.0,0.8055555555555556
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,11,Nov,229883.0,6.25,cases,calendar-month purchase total divided by 2,519.875,dollars,18.0,0.3472222222222222
+6367866,Fruit Peach 90-195 Ct Slcd CND,Canned Peaches,12,Dec,231310.0,3.0,cases,calendar-month purchase total divided by 2,243.21,dollars,18.0,0.16666666666666666
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,1,Jan,70283.0,1.5,cases,calendar-month purchase total divided by 2,133.34,dollars,23.0,0.06521739130434782
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,2,Feb,277428.0,16.5,cases,calendar-month purchase total divided by 2,1446.79,dollars,23.0,0.717391304347826
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,3,Mar,140430.0,7.0,cases,calendar-month purchase total divided by 2,614.495,dollars,23.0,0.30434782608695654
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,4,Apr,258945.0,15.0,cases,calendar-month purchase total divided by 2,1316.775,dollars,23.0,0.6521739130434783
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,5,May,154523.0,9.5,cases,calendar-month purchase total divided by 2,855.5699999999999,dollars,23.0,0.41304347826086957
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,6,Jun,0.0,1.5,cases,calendar-month purchase total divided by 2,126.69,dollars,23.0,0.06521739130434782
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,7,Jul,0.0,2.5,cases,calendar-month purchase total divided by 2,221.37,dollars,23.0,0.10869565217391304
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,8,Aug,51797.0,5.0,cases,calendar-month purchase total divided by 2,449.39,dollars,23.0,0.21739130434782608
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,9,Sep,376862.0,17.0,cases,calendar-month purchase total divided by 2,1521.15,dollars,23.0,0.7391304347826086
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,10,Oct,430403.0,23.0,cases,calendar-month purchase total divided by 2,2060.11,dollars,23.0,1.0
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,11,Nov,229883.0,11.0,cases,calendar-month purchase total divided by 2,1002.21,dollars,23.0,0.4782608695652174
+2170200,Sauce Cheese White Pouch SS,Cheese Sauce,12,Dec,231310.0,3.5,cases,calendar-month purchase total divided by 2,318.885,dollars,23.0,0.15217391304347827
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,1,Jan,70283.0,13.0,cases,calendar-month purchase total divided by 2,563.24,dollars,52.0,0.25
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,2,Feb,277428.0,52.0,cases,calendar-month purchase total divided by 2,2252.96,dollars,52.0,1.0
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,3,Mar,140430.0,38.0,cases,calendar-month purchase total divided by 2,1649.42,dollars,52.0,0.7307692307692307
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,4,Apr,258945.0,48.5,cases,calendar-month purchase total divided by 2,2109.1,dollars,52.0,0.9326923076923077
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,5,May,154523.0,20.0,cases,calendar-month purchase total divided by 2,828.48,dollars,52.0,0.38461538461538464
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,6,Jun,0.0,8.0,cases,calendar-month purchase total divided by 2,344.88,dollars,52.0,0.15384615384615385
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,7,Jul,0.0,6.0,cases,calendar-month purchase total divided by 2,241.8,dollars,52.0,0.11538461538461539
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,8,Aug,51797.0,16.0,cases,calendar-month purchase total divided by 2,644.8,dollars,52.0,0.3076923076923077
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,9,Sep,376862.0,45.0,cases,calendar-month purchase total divided by 2,1813.5,dollars,52.0,0.8653846153846154
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,10,Oct,430403.0,45.5,cases,calendar-month purchase total divided by 2,1833.65,dollars,52.0,0.875
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,11,Nov,229883.0,24.0,cases,calendar-month purchase total divided by 2,967.2,dollars,52.0,0.46153846153846156
+7335839,Spread Mayonnaise Chipotle SS,Chipotle Mayo,12,Dec,231310.0,12.0,cases,calendar-month purchase total divided by 2,483.6,dollars,52.0,0.23076923076923078
+9422965,Cereal Granola Oat & Honey,Granola Cereal,1,Jan,70283.0,6.5,cases,calendar-month purchase total divided by 2,331.94,dollars,46.0,0.14130434782608695
+9422965,Cereal Granola Oat & Honey,Granola Cereal,2,Feb,277428.0,32.0,cases,calendar-month purchase total divided by 2,1633.17,dollars,46.0,0.6956521739130435
+9422965,Cereal Granola Oat & Honey,Granola Cereal,3,Mar,140430.0,33.5,cases,calendar-month purchase total divided by 2,1709.6799999999998,dollars,46.0,0.7282608695652174
+9422965,Cereal Granola Oat & Honey,Granola Cereal,4,Apr,258945.0,38.0,cases,calendar-month purchase total divided by 2,1939.4900000000002,dollars,46.0,0.8260869565217391
+9422965,Cereal Granola Oat & Honey,Granola Cereal,5,May,154523.0,15.0,cases,calendar-month purchase total divided by 2,766.08,dollars,46.0,0.32608695652173914
+9422965,Cereal Granola Oat & Honey,Granola Cereal,6,Jun,0.0,7.5,cases,calendar-month purchase total divided by 2,382.83,dollars,46.0,0.16304347826086957
+9422965,Cereal Granola Oat & Honey,Granola Cereal,7,Jul,0.0,5.0,cases,calendar-month purchase total divided by 2,255.43,dollars,46.0,0.10869565217391304
+9422965,Cereal Granola Oat & Honey,Granola Cereal,8,Aug,51797.0,18.0,cases,calendar-month purchase total divided by 2,919.8,dollars,46.0,0.391304347826087
+9422965,Cereal Granola Oat & Honey,Granola Cereal,9,Sep,376862.0,38.5,cases,calendar-month purchase total divided by 2,1967.35,dollars,46.0,0.8369565217391305
+9422965,Cereal Granola Oat & Honey,Granola Cereal,10,Oct,430403.0,46.0,cases,calendar-month purchase total divided by 2,2350.6000000000004,dollars,46.0,1.0
+9422965,Cereal Granola Oat & Honey,Granola Cereal,11,Nov,229883.0,18.5,cases,calendar-month purchase total divided by 2,945.35,dollars,46.0,0.40217391304347827
+9422965,Cereal Granola Oat & Honey,Granola Cereal,12,Dec,231310.0,9.5,cases,calendar-month purchase total divided by 2,485.45,dollars,46.0,0.20652173913043478
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,1,Jan,70283.0,7.0,cases,calendar-month purchase total divided by 2,270.83,dollars,62.0,0.11290322580645161
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,2,Feb,277428.0,35.5,cases,calendar-month purchase total divided by 2,1343.495,dollars,62.0,0.5725806451612904
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,3,Mar,140430.0,40.0,cases,calendar-month purchase total divided by 2,1435.1,dollars,62.0,0.6451612903225806
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,4,Apr,258945.0,60.5,cases,calendar-month purchase total divided by 2,2321.895,dollars,62.0,0.9758064516129032
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,5,May,154523.0,24.5,cases,calendar-month purchase total divided by 2,947.355,dollars,62.0,0.3951612903225806
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,6,Jun,0.0,9.5,cases,calendar-month purchase total divided by 2,367.005,dollars,62.0,0.1532258064516129
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,7,Jul,0.0,9.0,cases,calendar-month purchase total divided by 2,348.21000000000004,dollars,62.0,0.14516129032258066
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,8,Aug,51797.0,17.0,cases,calendar-month purchase total divided by 2,657.73,dollars,62.0,0.27419354838709675
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,9,Sep,376862.0,62.0,cases,calendar-month purchase total divided by 2,2398.7799999999997,dollars,62.0,1.0
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,10,Oct,430403.0,55.0,cases,calendar-month purchase total divided by 2,2127.95,dollars,62.0,0.8870967741935484
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,11,Nov,229883.0,35.0,cases,calendar-month purchase total divided by 2,1354.15,dollars,62.0,0.5645161290322581
+8018475,Potato HashBrown Patty Tri 2oz PRFRD FZN,Hash Browns,12,Dec,231310.0,16.0,cases,calendar-month purchase total divided by 2,619.04,dollars,62.0,0.25806451612903225
+2554244,Spread Hummus Plain REF,Hummus,1,Jan,70283.0,7.0,cases,calendar-month purchase total divided by 2,221.76999999999998,dollars,38.5,0.18181818181818182
+2554244,Spread Hummus Plain REF,Hummus,2,Feb,277428.0,38.5,cases,calendar-month purchase total divided by 2,1224.7350000000001,dollars,38.5,1.0
+2554244,Spread Hummus Plain REF,Hummus,3,Mar,140430.0,21.5,cases,calendar-month purchase total divided by 2,668.8499999999999,dollars,38.5,0.5584415584415584
+2554244,Spread Hummus Plain REF,Hummus,4,Apr,258945.0,34.5,cases,calendar-month purchase total divided by 2,1092.1,dollars,38.5,0.8961038961038961
+2554244,Spread Hummus Plain REF,Hummus,5,May,154523.0,20.5,cases,calendar-month purchase total divided by 2,642.0699999999999,dollars,38.5,0.5324675324675324
+2554244,Spread Hummus Plain REF,Hummus,6,Jun,0.0,7.5,cases,calendar-month purchase total divided by 2,230.75,dollars,38.5,0.19480519480519481
+2554244,Spread Hummus Plain REF,Hummus,7,Jul,0.0,5.0,cases,calendar-month purchase total divided by 2,155.625,dollars,38.5,0.12987012987012986
+2554244,Spread Hummus Plain REF,Hummus,8,Aug,51797.0,16.5,cases,calendar-month purchase total divided by 2,515.88,dollars,38.5,0.42857142857142855
+2554244,Spread Hummus Plain REF,Hummus,9,Sep,376862.0,34.0,cases,calendar-month purchase total divided by 2,1058.765,dollars,38.5,0.8831168831168831
+2554244,Spread Hummus Plain REF,Hummus,10,Oct,430403.0,31.5,cases,calendar-month purchase total divided by 2,977.605,dollars,38.5,0.8181818181818182
+2554244,Spread Hummus Plain REF,Hummus,11,Nov,229883.0,15.5,cases,calendar-month purchase total divided by 2,474.455,dollars,38.5,0.4025974025974026
+2554244,Spread Hummus Plain REF,Hummus,12,Dec,231310.0,11.5,cases,calendar-month purchase total divided by 2,352.015,dollars,38.5,0.2987012987012987
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,1,Jan,70283.0,16.5,cases,calendar-month purchase total divided by 2,534.5699999999999,dollars,73.5,0.22448979591836735
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,2,Feb,277428.0,58.5,cases,calendar-month purchase total divided by 2,1900.605,dollars,73.5,0.7959183673469388
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,3,Mar,140430.0,51.5,cases,calendar-month purchase total divided by 2,1666.995,dollars,73.5,0.7006802721088435
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,4,Apr,258945.0,59.5,cases,calendar-month purchase total divided by 2,1930.11,dollars,73.5,0.8095238095238095
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,5,May,154523.0,24.0,cases,calendar-month purchase total divided by 2,797.895,dollars,73.5,0.32653061224489793
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,6,Jun,0.0,12.0,cases,calendar-month purchase total divided by 2,392.53499999999997,dollars,73.5,0.16326530612244897
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,7,Jul,0.0,12.5,cases,calendar-month purchase total divided by 2,422.25,dollars,73.5,0.17006802721088435
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,8,Aug,51797.0,22.0,cases,calendar-month purchase total divided by 2,743.1600000000001,dollars,73.5,0.29931972789115646
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,9,Sep,376862.0,67.5,cases,calendar-month purchase total divided by 2,2280.1499999999996,dollars,73.5,0.9183673469387755
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,10,Oct,430403.0,73.5,cases,calendar-month purchase total divided by 2,2482.83,dollars,73.5,1.0
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,11,Nov,229883.0,32.5,cases,calendar-month purchase total divided by 2,1097.85,dollars,73.5,0.4421768707482993
+4198719,Spread Ketchup Tomato Dispenser Fcy SS,Ketchup,12,Dec,231310.0,21.5,cases,calendar-month purchase total divided by 2,726.27,dollars,73.5,0.2925170068027211
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,1,Jan,70283.0,17.0,cases,calendar-month purchase total divided by 2,592.025,dollars,105.5,0.16113744075829384
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,2,Feb,277428.0,75.0,cases,calendar-month purchase total divided by 2,2611.135,dollars,105.5,0.7109004739336493
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,3,Mar,140430.0,64.0,cases,calendar-month purchase total divided by 2,2227.3199999999997,dollars,105.5,0.6066350710900474
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,4,Apr,258945.0,78.0,cases,calendar-month purchase total divided by 2,2716.165,dollars,105.5,0.7393364928909952
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,5,May,154523.0,31.5,cases,calendar-month purchase total divided by 2,1101.335,dollars,105.5,0.2985781990521327
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,6,Jun,0.0,8.0,cases,calendar-month purchase total divided by 2,278.6,dollars,105.5,0.07582938388625593
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,7,Jul,0.0,8.0,cases,calendar-month purchase total divided by 2,280.08000000000004,dollars,105.5,0.07582938388625593
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,8,Aug,51797.0,25.0,cases,calendar-month purchase total divided by 2,875.25,dollars,105.5,0.23696682464454977
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,9,Sep,376862.0,103.5,cases,calendar-month purchase total divided by 2,3623.535,dollars,105.5,0.981042654028436
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,10,Oct,430403.0,105.5,cases,calendar-month purchase total divided by 2,3693.5550000000003,dollars,105.5,1.0
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,11,Nov,229883.0,38.0,cases,calendar-month purchase total divided by 2,1330.38,dollars,105.5,0.36018957345971564
+7832888,Chip Potato Kettle 16 oz SS,Kettle Chips,12,Dec,231310.0,24.5,cases,calendar-month purchase total divided by 2,857.745,dollars,105.5,0.23222748815165878
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,1,Jan,70283.0,15.0,cases,calendar-month purchase total divided by 2,614.48,dollars,74.5,0.20134228187919462
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,2,Feb,277428.0,50.5,cases,calendar-month purchase total divided by 2,2095.015,dollars,74.5,0.6778523489932886
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,3,Mar,140430.0,41.0,cases,calendar-month purchase total divided by 2,1710.6,dollars,74.5,0.5503355704697986
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,4,Apr,258945.0,55.0,cases,calendar-month purchase total divided by 2,2331.62,dollars,74.5,0.738255033557047
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,5,May,154523.0,30.0,cases,calendar-month purchase total divided by 2,1288.05,dollars,74.5,0.40268456375838924
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,6,Jun,0.0,21.0,cases,calendar-month purchase total divided by 2,896.64,dollars,74.5,0.28187919463087246
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,7,Jul,0.0,13.0,cases,calendar-month purchase total divided by 2,554.99,dollars,74.5,0.174496644295302
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,8,Aug,51797.0,18.5,cases,calendar-month purchase total divided by 2,788.9949999999999,dollars,74.5,0.2483221476510067
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,9,Sep,376862.0,67.0,cases,calendar-month purchase total divided by 2,2856.74,dollars,74.5,0.8993288590604027
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,10,Oct,430403.0,74.5,cases,calendar-month purchase total divided by 2,3174.2650000000003,dollars,74.5,1.0
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,11,Nov,229883.0,33.0,cases,calendar-month purchase total divided by 2,1378.08,dollars,74.5,0.4429530201342282
+2167948,Fruit Mango In-Juice Import Slcd Pld REF,Mango Fruit,12,Dec,231310.0,16.0,cases,calendar-month purchase total divided by 2,668.16,dollars,74.5,0.21476510067114093
+222-33756,Mix Original,Mix Original,1,Jan,70283.0,4.5,cases,calendar-month purchase total divided by 2,402.5,dollars,17.0,0.2647058823529412
+222-33756,Mix Original,Mix Original,2,Feb,277428.0,11.5,cases,calendar-month purchase total divided by 2,1029.5,dollars,17.0,0.6764705882352942
+222-33756,Mix Original,Mix Original,3,Mar,140430.0,9.0,cases,calendar-month purchase total divided by 2,828.5,dollars,17.0,0.5294117647058824
+222-33756,Mix Original,Mix Original,4,Apr,258945.0,9.0,cases,calendar-month purchase total divided by 2,823.0,dollars,17.0,0.5294117647058824
+222-33756,Mix Original,Mix Original,5,May,154523.0,4.5,cases,calendar-month purchase total divided by 2,422.0,dollars,17.0,0.2647058823529412
+222-33756,Mix Original,Mix Original,6,Jun,0.0,1.0,cases,calendar-month purchase total divided by 2,91.0,dollars,17.0,0.058823529411764705
+222-33756,Mix Original,Mix Original,7,Jul,0.0,8.5,cases,calendar-month purchase total divided by 2,774.5,dollars,17.0,0.5
+222-33756,Mix Original,Mix Original,8,Aug,51797.0,17.0,cases,calendar-month purchase total divided by 2,1571.5,dollars,17.0,1.0
+222-33756,Mix Original,Mix Original,9,Sep,376862.0,12.5,cases,calendar-month purchase total divided by 2,1130.5,dollars,17.0,0.7352941176470589
+222-33756,Mix Original,Mix Original,10,Oct,430403.0,11.0,cases,calendar-month purchase total divided by 2,983.5,dollars,17.0,0.6470588235294118
+222-33756,Mix Original,Mix Original,11,Nov,229883.0,10.5,cases,calendar-month purchase total divided by 2,940.5,dollars,17.0,0.6176470588235294
+222-33756,Mix Original,Mix Original,12,Dec,231310.0,2.5,cases,calendar-month purchase total divided by 2,217.5,dollars,17.0,0.14705882352941177
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,1,Jan,70283.0,5.0,cases,calendar-month purchase total divided by 2,747.51,dollars,22.0,0.22727272727272727
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,2,Feb,277428.0,21.5,cases,calendar-month purchase total divided by 2,3222.365,dollars,22.0,0.9772727272727273
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,3,Mar,140430.0,19.0,cases,calendar-month purchase total divided by 2,2874.29,dollars,22.0,0.8636363636363636
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,4,Apr,258945.0,19.5,cases,calendar-month purchase total divided by 2,2950.05,dollars,22.0,0.8863636363636364
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,5,May,154523.0,11.0,cases,calendar-month purchase total divided by 2,1663.15,dollars,22.0,0.5
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,6,Jun,0.0,7.0,cases,calendar-month purchase total divided by 2,1059.1100000000001,dollars,22.0,0.3181818181818182
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,7,Jul,0.0,5.5,cases,calendar-month purchase total divided by 2,808.905,dollars,22.0,0.25
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,8,Aug,51797.0,8.0,cases,calendar-month purchase total divided by 2,1017.675,dollars,22.0,0.36363636363636365
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,9,Sep,376862.0,22.0,cases,calendar-month purchase total divided by 2,2770.795,dollars,22.0,1.0
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,10,Oct,430403.0,22.0,cases,calendar-month purchase total divided by 2,2794.77,dollars,22.0,1.0
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,11,Nov,229883.0,9.5,cases,calendar-month purchase total divided by 2,1434.595,dollars,22.0,0.4318181818181818
+6362412,Oil Canola Olive Virgin 75/25 Blend,Oil Canola Olive Virgin 75/25 Blend,12,Dec,231310.0,4.0,cases,calendar-month purchase total divided by 2,604.04,dollars,22.0,0.18181818181818182
+0052332,Rice Sushi,Rice Sushi,1,Jan,70283.0,5.0,cases,calendar-month purchase total divided by 2,211.245,dollars,39.0,0.1282051282051282
+0052332,Rice Sushi,Rice Sushi,2,Feb,277428.0,34.0,cases,calendar-month purchase total divided by 2,1490.3600000000001,dollars,39.0,0.8717948717948718
+0052332,Rice Sushi,Rice Sushi,3,Mar,140430.0,27.5,cases,calendar-month purchase total divided by 2,1144.85,dollars,39.0,0.7051282051282052
+0052332,Rice Sushi,Rice Sushi,4,Apr,258945.0,36.5,cases,calendar-month purchase total divided by 2,1506.645,dollars,39.0,0.9358974358974359
+0052332,Rice Sushi,Rice Sushi,5,May,154523.0,15.0,cases,calendar-month purchase total divided by 2,595.35,dollars,39.0,0.38461538461538464
+0052332,Rice Sushi,Rice Sushi,6,Jun,0.0,4.0,cases,calendar-month purchase total divided by 2,165.35999999999999,dollars,39.0,0.10256410256410256
+0052332,Rice Sushi,Rice Sushi,7,Jul,0.0,3.5,cases,calendar-month purchase total divided by 2,142.235,dollars,39.0,0.08974358974358974
+0052332,Rice Sushi,Rice Sushi,8,Aug,51797.0,17.0,cases,calendar-month purchase total divided by 2,687.5799999999999,dollars,39.0,0.4358974358974359
+0052332,Rice Sushi,Rice Sushi,9,Sep,376862.0,33.5,cases,calendar-month purchase total divided by 2,1329.0700000000002,dollars,39.0,0.8589743589743589
+0052332,Rice Sushi,Rice Sushi,10,Oct,430403.0,39.0,cases,calendar-month purchase total divided by 2,1522.255,dollars,39.0,1.0
+0052332,Rice Sushi,Rice Sushi,11,Nov,229883.0,15.5,cases,calendar-month purchase total divided by 2,605.895,dollars,39.0,0.3974358974358974
+0052332,Rice Sushi,Rice Sushi,12,Dec,231310.0,10.0,cases,calendar-month purchase total divided by 2,390.9,dollars,39.0,0.2564102564102564
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,1,Jan,70283.0,9.5,cases,calendar-month purchase total divided by 2,527.9649999999999,dollars,45.5,0.2087912087912088
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,2,Feb,277428.0,34.0,cases,calendar-month purchase total divided by 2,1887.935,dollars,45.5,0.7472527472527473
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,3,Mar,140430.0,31.0,cases,calendar-month purchase total divided by 2,1721.67,dollars,45.5,0.6813186813186813
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,4,Apr,258945.0,32.5,cases,calendar-month purchase total divided by 2,1804.76,dollars,45.5,0.7142857142857143
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,5,May,154523.0,18.5,cases,calendar-month purchase total divided by 2,1027.45,dollars,45.5,0.4065934065934066
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,6,Jun,0.0,17.0,cases,calendar-month purchase total divided by 2,944.02,dollars,45.5,0.37362637362637363
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,7,Jul,0.0,11.5,cases,calendar-month purchase total divided by 2,639.55,dollars,45.5,0.25274725274725274
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,8,Aug,51797.0,13.5,cases,calendar-month purchase total divided by 2,735.3599999999999,dollars,45.5,0.2967032967032967
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,9,Sep,376862.0,45.5,cases,calendar-month purchase total divided by 2,2496.87,dollars,45.5,1.0
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,10,Oct,430403.0,37.666664999999995,cases,calendar-month purchase total divided by 2,2130.79,dollars,45.5,0.8278387912087911
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,11,Nov,229883.0,16.25,cases,calendar-month purchase total divided by 2,903.825,dollars,45.5,0.35714285714285715
+9008475,Sauce Spaghetti Tomato CND SS,Sauce Spaghetti Tomato CND SS,12,Dec,231310.0,9.0,cases,calendar-month purchase total divided by 2,500.58,dollars,45.5,0.1978021978021978
