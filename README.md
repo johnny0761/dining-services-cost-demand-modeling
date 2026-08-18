@@ -40,8 +40,6 @@ The interactive item-level regression view helps compare monthly item purchasing
 
 ![Kettle Chips quantity vs meal swipes overview](images/kettle-chips-overview.png)
 
-![Kettle Chips hover tooltip](images/kettle-chips-hover.png)
-
 ![Kettle Chips zoomed hover tooltip](images/kettle-chips-zoomed-hover.png)
 
 ## Method Overview
