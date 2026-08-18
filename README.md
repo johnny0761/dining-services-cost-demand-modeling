@@ -1,4 +1,4 @@
-# Econ Project
+# Dining Services Cost and Demand Modeling
 
 This project uses real dining services data from my school to analyze non-perishable purchasing patterns alongside meal swipe activity. I built this modeling work for my school's dining services team to help identify demand patterns, reduce unnecessary purchasing, and support lower operating costs.
 
