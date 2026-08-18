@@ -44,6 +44,10 @@ The interactive item-level regression view helps compare monthly item purchasing
 
 ![Kettle Chips zoomed hover tooltip](images/kettle-chips-zoomed-hover.png)
 
+![Quantity and total cost over time by item](images/quantity-and-cost-over-time.png)
+
+![Item alignment score regression grid](images/item-alignment-score-grid.png)
+
 ## Method Overview
 
 The pipeline starts by cleaning and standardizing item IDs and item names. It then aggregates purchasing activity by item, calendar week, purchase date, and month. Meal swipe totals are extracted from the meal plan sheet, collapsed into monthly demand measures, and compared against purchasing quantities.
