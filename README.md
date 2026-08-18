@@ -34,6 +34,16 @@ The generated outputs fall into four broad groups:
 - Item-level demand alignment:
   `item_meal_swipe_unit_regression.csv`, `item_monthly_quantity_by_meal_swipes.csv`, `item_alignment_scores.csv`, `item_alignment_score_regression.png`, `item_meal_swipe_interactive_regression.html`
 
+## Visual Examples
+
+The interactive item-level regression view helps compare monthly item purchasing against meal swipe demand. The examples below show the Kettle Chips view, including the metric guide, hover tooltip, regression line, normalized comparison line, and uncertainty band.
+
+![Kettle Chips quantity vs meal swipes overview](images/kettle-chips-overview.png)
+
+![Kettle Chips hover tooltip](images/kettle-chips-hover.png)
+
+![Kettle Chips zoomed hover tooltip](images/kettle-chips-zoomed-hover.png)
+
 ## Method Overview
 
 The pipeline starts by cleaning and standardizing item IDs and item names. It then aggregates purchasing activity by item, calendar week, purchase date, and month. Meal swipe totals are extracted from the meal plan sheet, collapsed into monthly demand measures, and compared against purchasing quantities.
